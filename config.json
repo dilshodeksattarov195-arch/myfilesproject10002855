@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterconnect",
+        "uuid": 27485085,
+        "checksum": "g1f7v"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
